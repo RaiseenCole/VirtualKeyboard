@@ -126,7 +126,7 @@ public class VirtualKeyboard extends JFrame implements ActionListener {
                 if (buttons[i].getText().equals("Espace")) {
                     text1.setText(text1.getText() + " ");
                 }
-
+                // iam ali sindhu 
                 
             }
         }
